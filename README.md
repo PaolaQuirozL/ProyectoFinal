@@ -10,3 +10,5 @@ Para que se ejecute correctamente se necesita
 -Haber instalado el webdriver de Chrome y almacenarlo en el path: C:\webdriver3\chromedriver.exe o modicar el path al inicio de las funciones 
 -instalar selenium y pandasql
 
+En caso de que al ejecutarlo mande error cuando hacemos la busqueda de los 4 productos, separar en dos celdas los renglones que están separados por ###
+
